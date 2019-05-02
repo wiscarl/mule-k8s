@@ -3,10 +3,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
-	<artifactId>twitter-mule</artifactId>
+<!--	<artifactId>twitter-mule</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule</packaging>
-<!--	<name>Mule twitter-mule Application</name> -->
+	<name>Mule twitter-mule Application</name> -->
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
